@@ -1,7 +1,7 @@
 # Grok Elevenlabs Storyteller
-<p align="center">
+
 ![Screenshot 2025-03-04 at 11 48 38 AM](https://github.com/user-attachments/assets/f7ac2c29-4bd3-4616-9b61-7766ef82c068)
-</p>
+
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
