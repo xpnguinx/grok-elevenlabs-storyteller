@@ -1,0 +1,5 @@
+tkinter
+pygame
+requests
+python-dotenv
+elevenlabs
