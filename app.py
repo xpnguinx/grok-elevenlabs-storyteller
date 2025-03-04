@@ -41,7 +41,7 @@ class xAIClient:
             "Content-Type": "application/json"
         }
     
-    def chat(self, messages, model="grok-beta"):
+    def chat(self, messages, model="grok-2-1212"):
         """Create a chat completion using the xAI API"""
         try:
             endpoint = f"{self.base_url}/chat/completions"
